@@ -20,6 +20,6 @@ Additionally, GameComposition, the composition of ECBFSM, will be added.
 
 Feel free to make further adjustments to fit your project's needs.
 
-If you found this code useful in your projects, consider supporting its development with a donation. Your contribution helps maintain and improve ECBFSM and encourages ongoing support for open-source game development tools. Thank you for your generosity!
+If you found this code useful in your projects, consider supporting its development with a donation. Your contribution helps maintain and improve ECBFSM and encourages ongoing support for open-source game development tools.
 
 [Support my Patreon](https://www.patreon.com/PLPC17)
